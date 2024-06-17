@@ -17,7 +17,7 @@ export const Logo = () => {
                 width={30}
                 height={30}
             />
-            <p className={cn("text-lg text-neutral-700 pb-1",
+            <p className={cn("text-lg text-neutral-700 py-1",
             headingFont.className,
             )}>ProJo</p>
             </div>
