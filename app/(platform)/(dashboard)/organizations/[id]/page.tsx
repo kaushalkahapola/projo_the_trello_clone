@@ -2,7 +2,9 @@
 const OrganizationDetailsPage = () => {
   
     return (
-      <></>
+     <div>
+      OraginzationDetails
+     </div>
   )
 }
 
